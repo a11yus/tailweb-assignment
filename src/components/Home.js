@@ -22,7 +22,7 @@ const Home = () => {
           textAlign: "center",
         }}
       >
-        Student List
+        Student List 
       </h1>
       <Button
         variant="contained"
